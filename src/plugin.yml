@@ -1,0 +1,8 @@
+name: CreativeMenu
+author: Gunlek
+version: 1.0
+website: http://simple-duino.com
+main: com.simpleduino.CreativeMenu.CreativeMenu
+commands:
+  menu:
+    description: Give you the menu's compass and open the main menu
